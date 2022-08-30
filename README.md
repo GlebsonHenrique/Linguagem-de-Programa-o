@@ -1,1 +1,2 @@
-# Linguagem-de-Programa-o
+# lpmanha
+Repositório com códigos de aula LP Manhã
